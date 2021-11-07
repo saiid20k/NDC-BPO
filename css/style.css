@@ -101,7 +101,7 @@ nav .container .links ul li a:hover{
     }
     nav .container ul.open{
         position: absolute;
-        z-index: 100;
+        z-index: 1000;
         background-color: var(--blue-color);
         top: 33px;
         right: 0px;
